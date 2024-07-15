@@ -1,0 +1,7 @@
+{
+    "videos": [
+      { "id": 1, "title": "Video 1", "description": "Descripción del Video 1" },
+      { "id": 2, "title": "Video 2", "description": "Descripción del Video 2" }
+    ]
+  }
+  

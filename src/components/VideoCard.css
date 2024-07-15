@@ -1,0 +1,27 @@
+/* src/components/VideoCard.css */
+.video-card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 5px;
+    width: 200px;
+    text-align: left;
+}
+
+.video-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.video-card h3 {
+    margin: 0.5rem 0;
+}
+
+.video-card button {
+    margin-right: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    background-color: #61dafb;
+}
